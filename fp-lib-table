@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name armjtag-pmod)(type KiCad)(uri "$(KIPRJMOD)/armjtag-pmod.pretty")(options "")(descr ""))
+)
